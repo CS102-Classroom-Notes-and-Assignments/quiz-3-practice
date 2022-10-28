@@ -1,5 +1,7 @@
 # quiz-3-practice
 
+Review of pointers and arrays: https://www.youtube.com/watch?v=ASVB8KAFypk
+
 
 ### General Questions
 1. What is a pointer?
@@ -102,6 +104,7 @@ int main()
 
 
 ## Pointers and Function Arguments
+Review of Swap: https://www.youtube.com/watch?v=qz_iz_PLorc
 C passes arguments to functions by value, so there is no direct way for the function to alter a variable in the calling function. 
 
 #### Wrong Swap
@@ -128,7 +131,6 @@ int main()
     printf("after:  x=%d, y=%d\n", x, y);
 }
 ```
-
 #### Correct Swap
 ```c
 #include <stdio.h>
@@ -156,7 +158,7 @@ int main()
 
 
 ## Pointers and Arrays
-Any operation that can be achieved by array subscripting can also be done with pointers. The pointer version will in general be faster but, at least to the uninitiated, somewhat harder to understand.
+Any operation that can be achieved by array subscripting can also be done with pointers. 
 ```c
 int a[10];
 int *pa;
