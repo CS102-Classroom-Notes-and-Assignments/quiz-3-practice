@@ -3,9 +3,9 @@
 
 ### General Questions
 1. What is a pointer?
-- A pointer is a variable that contains the address of a variable. 
+    - A pointer is a variable that contains the address of a variable. 
 2. Why should we use pointers?
-- Pointers allow us to create more compact and efficient code
+    - Pointers allow us to create more compact and efficient code
 3. How are pointers and arrays related?
 4. What data type should a pointer be?
 
