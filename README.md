@@ -2,12 +2,9 @@
 
 Review of pointers and arrays: https://www.youtube.com/watch?v=ASVB8KAFypk
 
-
 ### General Questions
 1. What is a pointer?
-    - A pointer is a variable that contains the address of a variable. 
 2. Why should we use pointers?
-    - Pointers allow us to create more compact and efficient code
 3. How are pointers and arrays related?
 4. What data type should a pointer be?
 
@@ -101,10 +98,12 @@ int main()
     return 0;
 }
 ```
+Answer:
 
 
 ## Pointers and Function Arguments
 Review of Swap: https://www.youtube.com/watch?v=qz_iz_PLorc
+
 C passes arguments to functions by value, so there is no direct way for the function to alter a variable in the calling function. 
 
 #### Wrong Swap
@@ -175,3 +174,5 @@ pa and a have identical values. Since the **name of an array is a synonym for th
 ```pa=a;```
 
 Similarly ```a[i]``` is the same as ```*(a+i)```. The two forms are equivalent in C. 
+
+Practice using ```a[i]``` and ```*(a+i)``` in code.
