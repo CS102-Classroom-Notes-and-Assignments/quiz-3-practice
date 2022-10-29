@@ -33,8 +33,9 @@ int main()
     return 0;
 }
 ```
-Answer:
+##### Answer:
 
+https://www.dropbox.com/s/vl5ppwjrwrt2uhl/pointer_example_1.mp4?dl=0
 
 
 #### Pointer Unary Operators * and & with arithmetic operators
@@ -98,8 +99,8 @@ int main()
     return 0;
 }
 ```
-Answer:
-
+##### Answer:
+https://www.dropbox.com/s/uz2nz19gbqby2ol/pointer_example2.mp4?dl=0
 
 ## Pointers and Function Arguments
 Review of Swap: https://www.youtube.com/watch?v=qz_iz_PLorc
