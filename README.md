@@ -34,7 +34,7 @@ int main()
 }
 ```
 ##### Answer:
-<img src="pointers_1.jpeg" width="400">
+<img src="pointers_1.jpeg" width="700">
 
 https://www.dropbox.com/s/vl5ppwjrwrt2uhl/pointer_example_1.mp4?dl=0
 
@@ -101,7 +101,7 @@ int main()
 }
 ```
 ##### Answer:
-<img src="pointers_2.jpeg" width="400">
+<img src="pointers_2.jpeg" width="700">
 
 https://www.dropbox.com/s/uz2nz19gbqby2ol/pointer_example2.mp4?dl=0
 
