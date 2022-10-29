@@ -40,7 +40,7 @@ https://www.dropbox.com/s/vl5ppwjrwrt2uhl/pointer_example_1.mp4?dl=0
 
 
 #### Pointer Unary Operators * and & with arithmetic operators
-- What does the following code print out?
+- Draw out the diagrams explaining the pointers below (feel free to use dummy address values). What does the code print out at each step?
 ```c
 #include <stdio.h>
 
