@@ -108,7 +108,7 @@ https://www.dropbox.com/s/uz2nz19gbqby2ol/pointer_example2.mp4?dl=0
 ## Pointers and Function Arguments
 Review of Swap: https://www.youtube.com/watch?v=qz_iz_PLorc
 
-C passes arguments to functions by value, so there is no direct way for the function to alter a variable in the calling function. 
+C passes arguments to functions by value, so there is no direct way for the function to alter a variable in the calling function unless pointers are used.
 
 #### Wrong Swap
 ```c
